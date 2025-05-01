@@ -1,7 +1,7 @@
 # 📁 Projeto Imersão Mobile Alura 2025
 
-Protótipo de um aplicativo de restaurantes desenvolvido durante a **Imersão Mobile Alura 2025**.  
-Primeiro contato com **Flutter** e desenvolvimento mobile multiplataforma.
+Aplicativo de restaurantes desenvolvido como projeto prático da **Imersão Mobile Alura 2025**.
+Primeiro contato com **Flutter** e **Dart** para desenvolvimento mobile multiplataforma.
 
 ---
 
