@@ -8,6 +8,7 @@ Primeiro contato com **Flutter** e desenvolvimento mobile multiplataforma.
 ## 🚀 Tecnologias utilizadas
 
 - [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/) 
 
 ---
 
