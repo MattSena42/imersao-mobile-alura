@@ -1,16 +1,59 @@
-# myapp
+# 📁 Projeto Imersão Mobile Alura 2025
 
-A new Flutter project.
+Protótipo de um aplicativo de restaurantes desenvolvido durante a **Imersão Mobile Alura 2025**.  
+Primeiro contato com **Flutter** e desenvolvimento mobile multiplataforma.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Como usar
+
+### Pré-requisitos
+
+- [Flutter instalado](https://docs.flutter.dev/get-started/install)
+- Um dispositivo/emulador Android ou iOS configurado
+
+### Passos
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/MattSena42/imersao-mobile-alura.git
+   ```
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd imersao-mobile-alura
+   ```
+
+3. Execute o projeto:
+   ```bash
+   flutter pub get
+   flutter run
+   ```
+
+---
+
+## 🧠 Funcionalidades
+
+- ✅ Splash Screen
+- ✅ Home Screen
+- ✅ Restaurant Screen
+- ✅ Checkout Screen
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## 👨‍💻 Autor
+
+Feito por Matheus Sena  
+[🔗 GitHub](https://github.com/MattSena42)  
