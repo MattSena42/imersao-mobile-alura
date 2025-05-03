@@ -5,6 +5,15 @@ Primeiro contato com **Flutter** e **Dart** para desenvolvimento mobile multipla
 
 ---
 
+## 🧠 Funcionalidades
+
+- ✅ Splash Screen
+- ✅ Home Screen
+- ✅ Restaurant Screen
+- ✅ Checkout Screen
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
 - [Flutter](https://flutter.dev/)
@@ -36,15 +45,6 @@ Primeiro contato com **Flutter** e **Dart** para desenvolvimento mobile multipla
    flutter pub get
    flutter run
    ```
-
----
-
-## 🧠 Funcionalidades
-
-- ✅ Splash Screen
-- ✅ Home Screen
-- ✅ Restaurant Screen
-- ✅ Checkout Screen
 
 ---
 
